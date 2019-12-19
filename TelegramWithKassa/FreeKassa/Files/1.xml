@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+        <answer>info</answer>
+        <desc>Orders list</desc>
+        <action_data>
+            <item>
+                <intid>78142670</intid>
+                <id>123321</id>
+                <status>new</status>
+                <date>2019-11-16 21:51:25</date>
+                <amount>25</amount>
+                <description></description>
+                <email>ruslanvolodko3@gmail.com</email>
+                <cur_id>178</cur_id>
+            </item>
+            <item>
+                <intid>78142907</intid>
+                <id>123321</id>
+                <status>new</status>
+                <date>2019-11-16 21:54:53</date>
+                <amount>25</amount>
+                <description></description>
+                <email>ruslanvolodko3@gmail.com</email>
+                <cur_id>178</cur_id>
+            </item>
+        </action_data>
+</root>
